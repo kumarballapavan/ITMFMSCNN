@@ -1,3 +1,6 @@
+The work presented is of the published paper - https://doi.org/10.1080/03772063.2025.2462789
+Please cite the paper.
+
 1. Please download the hazy images and their corresponding ground truth images and put them in the "Hazy images" and "Ground Truth images" folder, respectively. The images can be downloaded from the links below:
 
 RESIDE dataset - https://sites.google.com/view/reside-dehaze-datasets/reside-standard
